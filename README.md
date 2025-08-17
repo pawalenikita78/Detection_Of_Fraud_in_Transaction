@@ -9,7 +9,7 @@ The best performance was achieved using a **Decision Tree Classifier with Optuna
 ---
 
 ## Dataset
-- **File**: Fraud.csv (public dataset)  
+- **link**: https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data 
 - **Content**: 
           - step
           - type
